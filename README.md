@@ -9,6 +9,7 @@ Daftar komunitas IT/Tech/Devs yang ada di bali, baik yang sedang aktif maupun ya
 | Bali Android Dev  | JAVA, Kotlin, & other hybrid platforms  | - | [link](https://t.me/BaliAndroidDev/) | [link](https://www.facebook.com/groups/331528353933101/) | - |
 | Ionic Developer Bali  | JS  | - | - | [link](https://www.facebook.com/groups/245219212889103/) | - |
 | PHP Bali  | PHP  | [link](https://phpbali.com/)  | [link](https://t.me/phpbali)  | [link](https://www.facebook.com/groups/138616836973181/)  | [link](https://www.facebook.com/balihypertext/)  |
+| Bali JS  | JS  | - | [link](https://t.me/balijs) | [link](https://www.facebook.com/groups/923989567684064/) | [link](https://www.facebook.com/BaliJS) |
 
 
 ## Contributing
