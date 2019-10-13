@@ -12,6 +12,7 @@ Daftar komunitas IT/Tech/Devs yang ada di bali, baik yang sedang aktif maupun ya
 | Bali JS  | JS  | - | [link](https://t.me/balijs) | [link](https://www.facebook.com/groups/923989567684064/) | [link](https://www.facebook.com/BaliJS) |
 | Dev Circle Bali | All | - | - | [link](https://www.facebook.com/groups/DevCBali) | - |
 | Bali Wordpress Meetup | HTML, CSS, PHP, JS | [meetup](https://www.meetup.com/Bali-WordPress-Meetup/) | - | - | - |
+| Bali Blockchain Developer | - | - | [link](https://t.me/baliblockchaindev) | [link](https://www.facebook.com/groups/baliblockchain/) | - |
 
 
 ## Contributing
