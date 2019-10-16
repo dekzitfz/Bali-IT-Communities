@@ -13,6 +13,7 @@ Daftar komunitas IT/Tech/Devs yang ada di bali, baik yang sedang aktif maupun ya
 | Dev Circle Bali | All | - | - | [link](https://www.facebook.com/groups/DevCBali) | - |
 | Bali Wordpress Meetup | HTML, CSS, PHP, JS | [meetup](https://www.meetup.com/Bali-WordPress-Meetup/) | - | - | - |
 | Bali Blockchain Developer | - | - | [link](https://t.me/baliblockchaindev) | [link](https://www.facebook.com/groups/baliblockchain/) | - |
+| GDG Bali | All | [web](https://gdgbali.com/), [meetup](https://www.meetup.com/GDG-Bali/) | - | [link](https://www.facebook.com/groups/gdgbali//) | [link](https://www.facebook.com/gdgbali/) |
 
 
 ## Contributing
