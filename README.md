@@ -15,6 +15,7 @@ Daftar komunitas IT/Tech/Devs yang ada di bali, baik yang sedang aktif maupun ya
 | Bali Blockchain Developer | - | - | [link](https://t.me/baliblockchaindev) | [link](https://www.facebook.com/groups/baliblockchain/) | - |
 | GDG Bali | All | [web](https://gdgbali.com/), [meetup](https://www.meetup.com/GDG-Bali/) | - | [link](https://www.facebook.com/groups/gdgbali//) | [link](https://www.facebook.com/gdgbali/) |
 | UX Bali | - | - | [link](https://t.me/joinchat/Bsxf9ROH5o5E9zRu8Scyww?fbclid=IwAR1UFCGLYNobIOE1ylIwjx1PaFJLjn4FAP4p3RnMeSIk3TcP0HQZexDru0k) | [link](https://web.facebook.com/groups/uxbali/) | - |
+| GameDev Bali | - | - | - | [link](https://web.facebook.com/groups/gamedevbali/) | - |
 
 ## Contributing
 Silahkan lihat [CONTRIBUTING](CONTRIBUTING.md) untuk info lebih lanjut.
