@@ -17,6 +17,7 @@ Daftar komunitas IT/Tech/Devs yang ada di bali, baik yang sedang aktif maupun ya
 | UX Bali | - | - | [link](https://t.me/joinchat/Bsxf9ROH5o5E9zRu8Scyww?fbclid=IwAR1UFCGLYNobIOE1ylIwjx1PaFJLjn4FAP4p3RnMeSIk3TcP0HQZexDru0k) | [link](https://web.facebook.com/groups/uxbali/) | - |
 | GameDev Bali | - | - | - | [link](https://web.facebook.com/groups/gamedevbali/) | - |
 | Bali iOS Developers | - | - | - | [link](https://www.facebook.com/groups/1532921290062747/) | - |
+| Asosiasi Professional IT Bali | - | [link](https://www.itbali.org/) | - | [link](https://www.facebook.com/groups/itbali/) | [link](https://www.facebook.com/ITBALI/) |
 
 ## Contributing
 Silahkan lihat [CONTRIBUTING](CONTRIBUTING.md) untuk info lebih lanjut.
