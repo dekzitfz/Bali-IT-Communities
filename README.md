@@ -20,5 +20,5 @@ Daftar komunitas IT/Tech/Devs yang ada di bali, baik yang sedang aktif maupun ya
 | Asosiasi Professional IT Bali | - | [link](https://www.itbali.org/) | - | [link](https://www.facebook.com/groups/itbali/) | [link](https://www.facebook.com/ITBALI/) |
 | Bali Startupers | - | - | - | [link](https://www.facebook.com/groups/balistartupers/) | - |
 
-## Contributing
-Silahkan lihat [CONTRIBUTING](CONTRIBUTING.md) untuk info lebih lanjut.
+## Kontribusi
+Silahkan lihat [Kontribusi](CONTRIBUTING.md) untuk info lebih lanjut.
