@@ -1,6 +1,6 @@
 # Komunitas IT di Bali
 
-Daftar komunitas IT/Tech/Devs yang ada di bali, baik yang sedang aktif maupun yang pernah aktif. Diharapkan ini dapat memudahkan kita yang ingin menemukan komunitas untuk belajar bersama, saling berbagi, dan menambah relasi. 
+Daftar komunitas IT/Teknologi/Developer yang ada di bali, baik yang sedang aktif maupun yang pernah aktif. Diharapkan ini dapat memudahkan kita yang ingin menemukan komunitas untuk belajar bersama, saling berbagi, dan menambah relasi. 
 
 **FEEL FREE TO OPEN PR AND CONTRIBUTE!**
 
