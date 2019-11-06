@@ -22,4 +22,4 @@ Daftar komunitas IT/Teknologi/Developer yang ada di bali, baik yang sedang aktif
 | Bali Gophers | - | - | [link](https://t.me/BaliGophers) | - | - |
 
 ## Kontribusi
-Silahkan lihat [Kontribusi](CONTRIBUTING.md) untuk info lebih lanjut.
+Jika ingin ikut berkontribusi silahkan lihat [Kontribusi](CONTRIBUTING.md) untuk info lebih lanjut.
