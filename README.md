@@ -19,7 +19,7 @@ Daftar komunitas IT/Teknologi/Developer yang ada di bali, baik yang sedang aktif
 | Bali iOS Developers | - | - | - | [link](https://www.facebook.com/groups/1532921290062747/) | - |
 | Asosiasi Professional IT Bali | - | [link](https://www.itbali.org/) | - | [link](https://www.facebook.com/groups/itbali/) | [link](https://www.facebook.com/ITBALI/) |
 | Bali Startupers | - | - | - | [link](https://www.facebook.com/groups/balistartupers/) | - |
-| Bali Gophers | - | - | [link](https://t.me/BaliGophers) | - | - |
+| Bali Gophers | Go | - | [link](https://t.me/BaliGophers) | - | - |
 
 ## Kontribusi
 Jika ingin ikut berkontribusi silahkan lihat [Kontribusi](CONTRIBUTING.md) untuk info lebih lanjut.
