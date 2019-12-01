@@ -21,6 +21,7 @@ Daftar komunitas IT/Teknologi/Developer yang ada di bali, baik yang sedang aktif
 | Bali Startupers | - | - | - | [link](https://www.facebook.com/groups/balistartupers/) | - |
 | Bali Gophers | Go | - | [link](https://t.me/BaliGophers) | - | - |
 | Flutter Dev Bali | Dart | - | [link](https://t.me/flutterdevbali) | - | - |
+| Data Science Indonesia Chapter Bali | - | - | [link](https://t.me/dsibali) | - | - |
 
 ## Kontribusi
 Jika ingin ikut berkontribusi silahkan lihat [Kontribusi](CONTRIBUTING.md) untuk info lebih lanjut.
